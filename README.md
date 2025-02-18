@@ -10,7 +10,7 @@ Ce repository a pour but de fournir un ensemble d'exercices pratiques permettant
 
 Chaque dossier contient un exercice spécifique avec :
 
-- Un fichier `README.md` expliquant l'objectif de l'exercice
+- Un fichier `rapport.md` expliquant l'objectif de l'exercice
 - Les fichiers de configuration Ansible nécessaires (`playbooks`, `roles`, `inventories`, etc.)
 - D'éventuels scripts complémentaires
 
@@ -23,9 +23,17 @@ Avant de commencer, assurez-vous d'avoir installé :
 - Une machine Linux/MacOS ou WSL sous Windows
 
 ## 📚 Exercices disponibles
+# fait moi des lien dynamique clickable vers mes exercices
 
+- [Exercice 03 - Installation ](03-Installation/rapport.md)
+- [Exercice 04 - Authentification](04-Authentification/rapport.md)
+- [Exercice 06 - Configuration de base](06-Configuration_de_base/rapport.md)
+- [Exercice 08 - Idempotence](08-Idempotence/rapport.md)
+- [Exercice 10 - Server web simple](10-Server_web_simple/rapport.md)
+- [Exercice 11 - Handler](11-Handler/rapport.md)
+- [Exercice 12 - Variables](12-Variables/rapport.md)
+- [Exercice 13 - Variables enregistrees](13-Variables_enregistrees/rapport.md)
 ***coming soon*** 
-- `...`
 
 ## 👨‍🏫 Formation et Références
 
