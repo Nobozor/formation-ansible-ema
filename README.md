@@ -33,7 +33,9 @@ Avant de commencer, assurez-vous d'avoir installé :
 - [Exercice 11 - Handler](11-Handler/rapport.md)
 - [Exercice 12 - Variables](12-Variables/rapport.md)
 - [Exercice 13 - Variables enregistrees](13-Variables_enregistrees/rapport.md)
-***coming soon*** 
+- [Exercice 14 - Ansible facts](14-Ansible_facts/rapport.md)
+- [Exercice 15 - Cibles hétérogenes](15-Cibles_heterogenes/rapport.md)
+- [Exercice 16 - Jinja2 templates](16-Jinja_template/rapport.md)
 
 ## 👨‍🏫 Formation et Références
 
